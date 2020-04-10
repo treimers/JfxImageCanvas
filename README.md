@@ -1,7 +1,9 @@
 # JfxImageCanvas
 JfxImageCanvas is a JavaFX Class that can be used to render a scaled and rotated image in a canvas.
 
-The image can be rotated by multiples of 90 degree and can be sized by a scale factor. The canvas size will be set according to these transformations.
+The image can be rotated and resized by a scale factor. The canvas size will be set according to these transformations.
+
+The following screen shot shows the usage with 11 instances based on the same image with identical scale factor and different rotation:
 
 ![Screen Shot](images/example.png)
 
