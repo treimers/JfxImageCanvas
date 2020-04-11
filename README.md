@@ -15,7 +15,8 @@ public class ImageCanvas extends Canvas
 
 The JfxImageCanvas calculates width and height according to image width and height, rotation angle and scale factor. This allows the container's layout process based on these boundaries.
 
-Examples
+## Example
+
 The following example shows the usage of the class. In the example several objects are created from the same image with different rotations and scale factors:
 ```java
 /**
